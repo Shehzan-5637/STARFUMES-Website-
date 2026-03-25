@@ -1,2 +1,3 @@
-# STARFUMES-Website-
-Python Tkinter desktop application simulating a luxury perfume shopping experience for STARFUMES.
+# 🌟 STARFUMES Desktop Shopping App – Real-Time Social Media / Shopping Feed
+
+A Python Tkinter-based desktop application simulating a real-time shopping experience for STARFUMES, a premium perfume brand.
